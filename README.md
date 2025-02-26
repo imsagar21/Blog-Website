@@ -1,2 +1,2 @@
-# E-Commerce-Website
-e commerce website using react js 
+# Blog Website
+Blog website using redux toolkit
